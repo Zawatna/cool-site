@@ -1,0 +1,22 @@
+.d-flex {
+    display: flex;
+}
+
+.but-style {
+    box-shadow: 2em;
+    box-sizing: 2,2;
+}
+nav {
+    display:flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+div {
+    display: flex;
+}
+footer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
